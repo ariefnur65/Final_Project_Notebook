@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Umum">
+        <EditTextPreference
+            android:title="Judul Catatan"
+            android:summary="Judul yang digunakan untuk action bar."
+            android:key="title"
+            android:defaultValue="Catatan"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Warna">
+        <CheckBoxPreference
+            android:title="Background Biru"
+            android:summary="Berganti Background dengan warna biru?"
+            android:key="background_color"
+            android:defaultValue="false"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

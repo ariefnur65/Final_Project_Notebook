@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Buku Catatan</string>
+    <string name="action_add_note">Add Note</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="app_title">Buku Catatan</string>
+
+    <!-- Fragment Title Strings -->
+    <string name="view_fragment_title">Lihat Note</string>
+    <string name="edit_fragment_title">Edit Note</string>
+    <string name="create_fragment_title">Buat Note</string>
+    <string name="title_preferences">Pengaturan Aplikasi</string>
+    <!-- Main List Long Click Context Menu-->
+    <string name="edit_menu">Edit</string>
+    <string name="delete_menu">Hapus</string>
+    <string name="splash">Buku Catatan</string>
+    <string name="about">Tentang</string>
+
+    <!-- Edit Fragment Strings -->
+    <string name="save_note_button">simpan Note</string>
+    <string name="title_activity_about">About</string>
+    <string name="desc">Arief Nur Prakoso</string>
+    <string name="identitas">NIM: 21120114120008</string>
+   <string name="ident">Seorang mahasiswa semester 5 Jurusan Sistem Komputer Undip yang suka dengan segala hal yang berhubungan dengan IT </string>
+</resources>

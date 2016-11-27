@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NoteTitle">Note Title</string>
+    <string name="NoteBody">I think this body is long enough to make the app run out of place to store it</string>
+
+
+
+</resources>
